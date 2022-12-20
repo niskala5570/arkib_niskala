@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="820"
+   height="360"
+   viewBox="0 0 216.95833 95.249999"
+   version="1.1"
+   id="svg11265"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="banner-v2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11267"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="404.43809"
+     inkscape:cy="206.8436"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs11262">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12108">
+      <rect
+         style="fill:#ff0000;stroke-width:0.264359;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:5;paint-order:markers stroke fill"
+         id="rect12110"
+         width="216.95831"
+         height="95.25"
+         x="5.0564609e-06"
+         y="0" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3670"
+       x="-0.020816443"
+       y="-0.17027759"
+       width="1.0416329"
+       height="1.3405552">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0418207"
+         id="feGaussianBlur3672" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3674"
+       x="-0.020054374"
+       y="-0.12521164"
+       width="1.0401087"
+       height="1.2504233">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0418207"
+         id="feGaussianBlur3676" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BG">
+    <image
+       width="216.95799"
+       height="272.76801"
+       preserveAspectRatio="none"
+       xlink:href="../../../../../../Users/Niskala5570/Pictures/Fubuki/__shirakami_fubuki_hololive_drawn_by_scottie_phantom2__b434556a22e3ceb0d33b68257c440521.jpg"
+       id="image584"
+       x="0.00016527374"
+       y="-16.360172"
+       clip-path="url(#clipPath12108)"
+       style="display:inline;opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="TXT"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.157px;line-height:0.9;font-family:Montserrat-Arabic;-inkscape-font-specification:'Montserrat-Arabic Semi-Bold';text-align:center;direction:rtl;text-anchor:middle;fill:#43a5e9;fill-opacity:1;stroke:#43a5e9;stroke-width:2.712;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter3674)"
+       x="97.504013"
+       y="94.182327"
+       id="text3110"
+       transform="matrix(0.37484945,0,0,0.37484945,130.59137,17.654373)"><tspan
+         sodipodi:role="line"
+         id="tspan3108"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat-Arabic;-inkscape-font-specification:'Montserrat-Arabic Semi-Bold';fill:#43a5e9;fill-opacity:1;stroke:#43a5e9;stroke-width:2.712;stroke-dasharray:none;stroke-opacity:1"
+         x="97.504013"
+         y="94.182327">ڤروجيک شيرايوکي</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.157px;line-height:0.9;font-family:Montserrat-Arabic;-inkscape-font-specification:'Montserrat-Arabic Semi-Bold';text-align:center;direction:rtl;text-anchor:middle;fill:#43a5e9;fill-opacity:1;stroke:#43a5e9;stroke-width:2.712;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;filter:url(#filter3670)"
+       x="97.388229"
+       y="65.391731"
+       id="text3114"
+       transform="matrix(0.37484945,0,0,0.37484945,130.59137,17.654373)"><tspan
+         sodipodi:role="line"
+         id="tspan3112"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat-Arabic;-inkscape-font-specification:'Montserrat-Arabic Semi-Bold';fill:#43a5e9;fill-opacity:1;stroke:#43a5e9;stroke-width:2.712;stroke-dasharray:none;stroke-opacity:1"
+         x="97.388229"
+         y="65.391731">Projek Syirayuki</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.68039px;line-height:0.9;font-family:Montserrat-Arabic;-inkscape-font-specification:'Montserrat-Arabic Semi-Bold';text-align:center;direction:rtl;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:1.01659;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="167.1407"
+       y="52.958565"
+       id="text18681"><tspan
+         sodipodi:role="line"
+         id="tspan18679"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat-Arabic;-inkscape-font-specification:'Montserrat-Arabic Semi-Bold';fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:1.01659;stroke-dasharray:none;stroke-opacity:1"
+         x="167.1407"
+         y="52.958565">ڤروجيک شيرايوکي</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.68039px;line-height:0.9;font-family:Montserrat-Arabic;-inkscape-font-specification:'Montserrat-Arabic Semi-Bold';text-align:center;direction:rtl;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:1.01659;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="167.09729"
+       y="42.166424"
+       id="text18764"><tspan
+         sodipodi:role="line"
+         id="tspan18762"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat-Arabic;-inkscape-font-specification:'Montserrat-Arabic Semi-Bold';fill:#ffffff;fill-opacity:1;stroke:#000080;stroke-width:1.01659;stroke-dasharray:none;stroke-opacity:1"
+         x="167.09729"
+         y="42.166424">Projek Syirayuki</tspan></text>
+  </g>
+  <g
+     inkscape:label="GUIDE"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none;opacity:0.244898">
+    <g
+       id="g11657"
+       inkscape:label="Dekstop Crop">
+      <rect
+         style="fill:#43a5e9;stroke:none;stroke-width:0.705255;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect11438"
+         width="216.95833"
+         height="6.3499999"
+         x="5.0564609e-06"
+         y="0" />
+      <rect
+         style="fill:#43a5e9;stroke:none;stroke-width:0.705255;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect11487"
+         width="216.95833"
+         height="6.3499999"
+         x="5.0564618e-06"
+         y="88.900002" />
+    </g>
+    <rect
+       style="fill:#00ff00;stroke:none;stroke-width:6.05944;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill;stop-color:#000000"
+       id="rect11541"
+       width="169.33333"
+       height="82.550003"
+       x="23.812498"
+       y="6.3500061"
+       inkscape:label="SafeZone" />
+    <g
+       id="g11653"
+       inkscape:label="Mobile Crop">
+      <rect
+         style="fill:#ffd5d5;stroke:none;stroke-width:1.277;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect11647"
+         width="23.812494"
+         height="82.550011"
+         x="5.0564609e-06"
+         y="6.3499999"
+         inkscape:label="rect11647" />
+      <rect
+         style="fill:#ffd5d5;stroke:none;stroke-width:1.277;stroke-linecap:square;stroke-linejoin:bevel;paint-order:markers stroke fill;stop-color:#000000"
+         id="rect11649"
+         width="23.812494"
+         height="82.550011"
+         x="193.14583"
+         y="6.3499999"
+         inkscape:label="rect11649" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="ShiraLogoIkonBulat.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="D:\Niskala's Void\Project\Design\Shirayuki\Logo\ikon2.0_beta.png"
+   inkscape:export-xdpi="45.511112"
+   inkscape:export-ydpi="45.511112"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview844"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="657.60931"
+     inkscape:cy="574.17071"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text3354"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid907"
+       originx="6.0402424e-06"
+       originy="5.7691122e-05" />
+  </sodipodi:namedview>
+  <defs
+     id="defs839">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1575">
+      <circle
+         style="opacity:1;fill:#ffffff;stroke:none;stroke-width:2.26443;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="circle1577"
+         cx="215.25212"
+         cy="402.12363"
+         r="71.895592" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(6.0402424e-6,5.7691122e-5)">
+    <g
+       aria-label="シラユキ"
+       transform="matrix(0.11127247,0,0,0.11127247,-15.951634,-36.745289)"
+       id="text3354"
+       style="font-size:53.3333px;line-height:1.25;font-family:'07LightNovelPOP';-inkscape-font-specification:'07LightNovelPOP';text-align:end;direction:rtl;text-anchor:end;white-space:pre;shape-inside:url(#rect3356);display:inline;opacity:1">
+      <circle
+         style="opacity:1;fill:#2979ff;stroke:none;stroke-width:152.849;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"
+         id="path1491"
+         cx="4996.3091"
+         cy="5183.1797"
+         r="4852.9526" />
+      <g
+         id="g11369"
+         transform="matrix(67.499999,0,0,67.499999,-9533.2086,-21960.164)"
+         clip-path="url(#clipPath1575)"
+         style="fill:#ffffff">
+        <path
+           id="path6630"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:2.01421"
+           d="m 176.81639,361.12287 -4.20721,16.01572 46.42087,11.49031 3.95973,-16.12179 z m 71.09854,28.03636 c -5.58609,10.31276 -11.27949,19.10381 -19.5512,26.51612 -7.84201,6.98262 -16.74727,12.91945 -25.9858,17.32385 l -2.58089,-6.46993 -11.27819,4.63148 8.90941,21.49572 c 20.84042,-8.16427 38.47143,-18.71621 52.00694,-34.40023 3.2926,-3.88527 5.97288,-8.24369 8.55585,-12.76309 m 0,0 h 3.99443 l 28.92799,0 v -16.73109 l -35.4813,0.39717 h -7.51724 m -75.62394,5.69213 v 16.75819 l 43.52177,0.21211 0.10615,-16.75818 z"
+           sodipodi:nodetypes="cccccccccccccccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>

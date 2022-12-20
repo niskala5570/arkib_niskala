@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="52.87mm"
+   height="51.477mm"
+   version="1.1"
+   viewBox="0 0 52.87 51.477"
+   id="svg14"
+   sodipodi:docname="tapawlogooptimized.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.9916582"
+     inkscape:cx="63.012821"
+     inkscape:cy="118.74528"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     transform="matrix(0.89446564,0,0,0.89446564,-67.781193,-101.87191)"
+     id="g12">
+    <ellipse
+       cx="105.35"
+       cy="142.67"
+       rx="26.417"
+       ry="25.735001"
+       fill="#ffffff"
+       opacity="0.995"
+       style="paint-order:markers fill stroke"
+       id="ellipse2" />
+    <path
+       transform="scale(0.26458)"
+       d="m 398.11,441.94 a 99.909,97.48 0 0 0 -99.91,97.48 99.909,97.48 0 0 0 13.211,48.443 c 0.20698,-11.254 4.9775,-38.968 44.416,-58.293 -7.0387,-6.0739 -6.4617,-39.431 22.98,-26.77 11.459,-14.01 21.656,-10.594 31.441,-1.5137 18.994,-15.147 34.899,11.327 28.664,22.729 43.347,16.342 47.014,36.523 49.496,56.82 0,0 -0.22214,0.72889 -0.24218,0.79492 a 99.909,97.48 0 0 0 9.8516,-42.211 99.909,97.48 0 0 0 -99.908,-97.48 z"
+       fill="#ff0000"
+       opacity="0.995"
+       stroke-linejoin="round"
+       stroke-width="1.2044"
+       style="paint-order:markers fill stroke"
+       id="path4" />
+    <path
+       transform="rotate(53.445)"
+       d="m 176.69,6.8987 c 0,1.8405 -0.58395,4.1825 -1.6043,4.1824 -1.0204,-10e-7 -2.2844,-1.8451 -2.2844,-3.6856 0,-1.8405 1.3212,-4.5092 2.3415,-4.5092 1.0204,-9.2e-6 1.5472,2.1719 1.5472,4.0124 z"
+       fill="#ff0000"
+       opacity="0.995"
+       style="paint-order:markers fill stroke"
+       id="path6" />
+    <path
+       transform="matrix(0.95174,0.3069,-0.37841,0.92564,0,0)"
+       d="m 166.58,101.56 c 0.0826,0.80108 -1.7852,1.0256 -3.6153,0.90315 -1.5035,-0.10059 -4.0446,-1.0111 -3.9884,-1.7991 0.0602,-0.84385 3.2125,-1.6207 4.0772,-1.41 1.4542,0.3543 3.4096,1.1729 3.5264,2.306 z"
+       fill="#ff0000"
+       opacity="0.995"
+       style="paint-order:markers fill stroke"
+       id="path8" />
+    <path
+       transform="rotate(-8.1547)"
+       d="m 93.495,168.01 c -0.36292,1.8181 -3.8184,4.7784 -7.5354,4.7784 -3.717,0 -6.8651,-3.5937 -6.8651,-5.4477 10e-7,-0.83135 0.73823,-1.7224 1.8153,-1.9451 1.3249,-0.27387 3.678,0.13043 5.7282,0.14135 2.2301,0.0119 3.9944,-0.0985 5.4047,0.4067 1.031,0.36931 1.6043,1.305 1.4523,2.0663 z"
+       fill="#ff0000"
+       opacity="0.995"
+       style="paint-order:markers fill stroke"
+       id="path10" />
+  </g>
+</svg>
